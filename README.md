@@ -86,6 +86,19 @@ If this extension has been helpful to you, consider supporting its continued dev
 
 **Donate via UPI:** `da123par@oksbi`
 
+## Screenshots
+
+Here are some screenshots demonstrating the extension's functionality:
+
+### Selection Mode
+![Selection Mode](screenshots/SS1.png)
+
+### Answer Display
+![Answer Display](screenshots/SS2.png)
+
+### Extension Popup
+![Extension Popup](screenshots/SS3.png)
+
 ## Disclaimer
 
 This extension is provided for educational and personal use. While it is designed with anti-cheat considerations to minimize detection by common proctoring scripts, no method is foolproof against highly sophisticated monitoring systems. Users are responsible for understanding and complying with the rules and regulations of any online exams or platforms they use. The developers are not responsible for any consequences resulting from the use of this extension.
